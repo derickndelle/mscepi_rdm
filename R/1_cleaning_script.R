@@ -62,6 +62,9 @@ skimr::skim(clean_village_df)
 ###########################################
 # Load and clean the household-level data #
 ###########################################
+#
+
+#COMMENET FOR TEST GITHUB
 
 raw_household_df <- haven::read_dta("../data/hh-data.dta")
 
